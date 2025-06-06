@@ -1,0 +1,11 @@
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\bin\Debug\net9.0\QuadraticEquationSolver.Core.deps.json
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\bin\Debug\net9.0\QuadraticEquationSolver.Core.dll
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\bin\Debug\net9.0\QuadraticEquationSolver.Core.pdb
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\QuadraticEquationSolver.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\QuadraticEquationSolver.Core.AssemblyInfoInputs.cache
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\QuadraticEquationSolver.Core.AssemblyInfo.cs
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\QuadraticEquationSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\QuadraticEquationSolver.Core.dll
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\refint\QuadraticEquationSolver.Core.dll
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\QuadraticEquationSolver.Core.pdb
+C:\Users\20101\Desktop\Quad\QuadraticEquationSolver.Core\obj\Debug\net9.0\ref\QuadraticEquationSolver.Core.dll
